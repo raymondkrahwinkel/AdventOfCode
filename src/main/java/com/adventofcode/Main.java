@@ -17,7 +17,9 @@ public class Main {
 //            com.adventofcode.challenges.Day2_1.Run();
 //            com.adventofcode.challenges.Day2_2.Run();
 //            com.adventofcode.challenges.Day3_1.Run();
-            com.adventofcode.challenges.Day3_2.Run();
+//            com.adventofcode.challenges.Day3_2.Run();
+//            com.adventofcode.challenges.Day4_1.Run();
+            com.adventofcode.challenges.Day4_2.Run();
 
 
         } catch (IOException e) {
